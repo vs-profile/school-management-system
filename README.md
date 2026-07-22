@@ -107,7 +107,7 @@ cd client
 npm install
 ```
 
-### 5. Run the backend
+### 5. Run the backend 
 
 ```bash
 cd server
